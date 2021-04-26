@@ -1,0 +1,13 @@
+a33e8e7c27c87c457b1676037309138f *DESCRIPTION
+812100322b9a5eaf7d7cafde3626b6fb *LICENSE
+9fc66016021f15f34c6916bfcc1abcf2 *NAMESPACE
+6782594925a86ac3b45aaaa812a5ac29 *R/billing.R
+549f60a8d96f547019711182d99dfa1c *R/download.R
+bae220f609622a02555ff5e84d57cac9 *R/query_table.R
+4aa8cea52d58add7bbb0789df8513456 *R/zzzz.R
+bd56a9083023bb6c47de80ee6cbbdc44 *man/download.Rd
+091326d10994b2ec01cbb6c9b4651ac0 *man/get_billing_id.Rd
+a8e7239b9c58b9c4ed6a55cc4bed8a8a *man/read_sql.Rd
+283ea51b9f00b98a76628a00792cbc55 *man/set_billing_id.Rd
+e06d948d4ed8885673d453cec21c1fb0 *tests/testthat/keys.env
+6b8a1081b53d11923361be9509ab289c *tests/testthat/test-download.R

@@ -21,7 +21,7 @@
     cli::cli_li(
       c(
         "Website: https://basedosdados.org/",
-        "Docs: https://basedosdados.github.io/mais/")),
+        "Docs: https://basedosdados.org/docs/home")),
 
     cli::cli_end(),
 
@@ -49,7 +49,7 @@
     "),
 
     "
-    Usando o pacote e dados para produzir um trabalho? Nos cite com o arquivo em https://github.com/basedosdados/mais/blob/master/CITATION.cff
+    Usando o pacote e dados para produzir um trabalho? Nos cite com o arquivo em https://github.com/basedosdados/sdk/blob/master/CITATION.cff
 
     Para citar o pacote basta rodar citation('basedosdados')." %>%
       cli::cli_inform()
